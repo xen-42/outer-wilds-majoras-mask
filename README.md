@@ -1,6 +1,6 @@
 # Majora's Mask's Moon
 
-![majoras moon thumbnail](https://user-images.githubusercontent.com/22628069/145873318-74248366-c444-41f5-832a-927f702939ae.png)
+![majoras moon thumbnail](https://user-images.githubusercontent.com/22628069/146268997-f261ec64-27be-4646-9a82-e1d59d14d70d.png)
 
 Credits for the moon model used:
 
